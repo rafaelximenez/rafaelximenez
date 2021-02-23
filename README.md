@@ -2,8 +2,7 @@
 
 ## Olá devs 👋
 Sou desenvolvedor, jiu-jiteiro, gamer e fã de animes
-Gosto de resolver problemas usando código.
-Sou um FullStack Developer :computer:
+<br/>Gosto de resolver problemas usando código :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Suridata**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
