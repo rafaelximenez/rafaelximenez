@@ -1,16 +1,14 @@
-### Hi there 👋
+# Rafael Ximenez
 
-<!--
-**strapbooll/strapbooll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá devs 👋
+Sou desenvolvedor, jiu-jiteiro, gamer e fã de animes
+Gosto de resolver problemas usando código.
+Sou um FullStack Developer :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou trabalhando na **Suridata**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :computer: &nbsp; Minha stack: Python, Laravel, ReactJS, Node.js & Typescript
+ 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RafaelXimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-rocha-ximenez/)](https://www.linkedin.com/in/rafael-rocha-ximenez/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-miniximenez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miniximenez@gmail.com)](mailto:miniximenez@gmail.com)
