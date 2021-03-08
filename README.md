@@ -6,7 +6,7 @@ Sou desenvolvedor, jiu-jiteiro, gamer e fã de animes
 
  :rocket:  &nbsp; Estou trabalhando na **Suridata**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos de dados usando python e ferramentas do GCP
- <br/> :computer: &nbsp; Minha stack: Python, Laravel, ReactJS, Node.js & Typescript
+ <br/> :computer: &nbsp; Minha stack: Python, GCP, Laravel, Node.js & Typescript
  
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RafaelXimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-rocha-ximenez/)](https://www.linkedin.com/in/rafael-rocha-ximenez/) 
 | 
