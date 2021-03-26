@@ -12,4 +12,4 @@
  
 <br/> &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RafaelXimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-rocha-ximenez/)](https://www.linkedin.com/in/rafael-rocha-ximenez/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-miniximenez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miniximenez@gmail.com)](mailto:miniximenez@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rximenez97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rximenez97@gmail.com)](mailto:rximenez97@gmail.com)
