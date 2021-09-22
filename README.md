@@ -6,8 +6,8 @@ Sou desenvolvedor, jiu-jiteiro, gamer e fã de animes
 <br/>Gosto de resolver problemas usando código :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Suridata** e **Gafisa**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos de dados usando python e ferramentas do GCP
- <br/> :computer: &nbsp; Minha stack: Python, Laravel, Node.js & Typescript
+ <br/> :purple_heart: &nbsp; Buscando sempre me aprimorar e colaborar com projetos de iniativas de dados
+ <br/> :computer: &nbsp; Minha stack: Python, GCP, AWS, Node.js & outras
  
 <br />
 <a href="https://github.com/strapbooll">
