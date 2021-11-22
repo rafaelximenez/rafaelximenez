@@ -5,7 +5,7 @@
 Sou desenvolvedor, jiu-jiteiro, gamer e fã de animes
 <br/>Gosto de resolver problemas usando código :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Suridata** e **Gafisa**
+ :rocket:  &nbsp; Estou trabalhando na **Suridata**
  <br/> :purple_heart: &nbsp; Buscando sempre me aprimorar e colaborar com projetos de iniciativas de dados
  
 <br />
