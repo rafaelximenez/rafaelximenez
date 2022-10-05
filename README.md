@@ -9,9 +9,9 @@ Sou desenvolvedor, jiu-jiteiro, gamer e fã de animes
  <br/> :purple_heart: &nbsp; Buscando sempre me aprimorar e colaborar com projetos de iniciativas de dados
  
 <br />
-<a href="https://github.com/strapbooll">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=strapbooll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=strapbooll&layout=compact&langs_count=8&theme=dracula"/>
+<a href="https://github.com/rafaelximenez">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaelximenez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelximenez&layout=compact&langs_count=8&theme=dracula"/>
 <a>
 
 <div style="display: inline_block"><br>
